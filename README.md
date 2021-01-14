@@ -11,4 +11,4 @@ The usage of this program is very simple.
 2. Run the test.m file.
 3. Wait for seconds, and you can see the results of the simulation.
 
-The cases included in the program is from the original paper of Taeyoung Lee, etc.
+The cases included in the program are from the original paper of Taeyoung Lee, etc.
